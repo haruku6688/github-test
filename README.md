@@ -1,3 +1,4 @@
 Hello GitHub
 このリポジトリはGitHubの基本操作を学習するためのものです。
 README.mdの編集やIssueの管理を練習します。
+Hello GitHub
